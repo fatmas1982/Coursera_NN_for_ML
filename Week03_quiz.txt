@@ -109,5 +109,5 @@ y=1/2(1/(1+e^(−z1))) + 1/2(1/(1+e(−z2))) with z1=wT1*x and z2=wT2*x.
 Can we get the exact same predictions as this combination of networks by using a single feed-forward network (again with no hidden units)
 using a logistic output neuron and weights w3=1/2(w1+w2)?
 
-x Yes
-o No
+o Yes
+x No
